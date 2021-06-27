@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T01:18:41.724Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="gnTTYsgJ7DDeXHiRX_q3" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-27T01:26:15.774Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Exn1Zp21Vq9heL3XTFHf" version="14.8.1" type="github">
   <diagram id="tswVuwicUbU1k4SYGEqR" name="Page-1">
     <mxGraphModel dx="1221" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -477,6 +477,51 @@
         </mxCell>
         <mxCell id="Sk61M5sw2czVdU3ApHa5-53" value="extended" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="250" y="907.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sk61M5sw2czVdU3ApHa5-54" value="Statistics" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="181" y="1270" width="89" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="Sk61M5sw2czVdU3ApHa5-55" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="151" y="1070" as="sourcePoint" />
+            <mxPoint x="181.00000000000296" y="1301.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sk61M5sw2czVdU3ApHa5-56" value="Top 3 cities by submitted cars" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1118" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Sk61M5sw2czVdU3ApHa5-57" value="Top 3 Manufacturer by submitted cars" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="396" y="1204" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Sk61M5sw2czVdU3ApHa5-58" value="5 most popular paint Color in our platform" style="ellipse;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="391" y="1278" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Sk61M5sw2czVdU3ApHa5-60" value="" style="endArrow=classic;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sk61M5sw2czVdU3ApHa5-56" target="Sk61M5sw2czVdU3ApHa5-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="322" y="1210" as="sourcePoint" />
+            <mxPoint x="372" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sk61M5sw2czVdU3ApHa5-61" value="" style="endArrow=classic;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sk61M5sw2czVdU3ApHa5-57" target="Sk61M5sw2czVdU3ApHa5-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="375" y="1320" as="sourcePoint" />
+            <mxPoint x="244.99999999999727" y="1402" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sk61M5sw2czVdU3ApHa5-62" value="" style="endArrow=classic;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Sk61M5sw2czVdU3ApHa5-58" target="Sk61M5sw2czVdU3ApHa5-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="1390" as="sourcePoint" />
+            <mxPoint x="243.99999999999727" y="1391" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sk61M5sw2czVdU3ApHa5-63" value="extended" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1176" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sk61M5sw2czVdU3ApHa5-64" value="extended" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1230" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sk61M5sw2czVdU3ApHa5-65" value="extended" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;rotation=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1287" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
