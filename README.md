@@ -1,1 +1,2 @@
 # MehrCar
+This Project is related to Large-scale and Multi-structured Databases and it's has been implemented on a large-scale dataset, using MongoDB and Java Programing in addition this project name is MehrCar, MehrCar is an online application for Finding secondhand cars. MehrCar can search Cars, manage Cars with models, etc.  Users can publish Advertising, Search into all advertising by the (model, data of .., )
